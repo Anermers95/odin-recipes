@@ -1,0 +1,45 @@
+#siteName
+{
+   text-align: center;
+   background-color: red;
+   color: #ffffff;
+}
+
+body{
+    background-color:#FF5722;
+}
+
+.phrase{
+    font-size: 30px
+}
+
+.foodName{
+    font-weight: bold;
+    text-align: center;
+    background-color: red;
+
+}
+
+.foodDescription{
+    font-weight: bold;
+    font-size: 20px;
+    background-color: #FFC107;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-style: italic
+}
+
+.foodImg{
+    text-align: center;
+}
+
+.instructions{
+    font-size: 21px;
+}
+
+.ingredients{
+    font-size: 20px;
+}
+
+.siteBanner{
+    text-align: center;
+}
